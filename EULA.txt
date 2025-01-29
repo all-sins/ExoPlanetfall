@@ -1,0 +1,51 @@
+**ExoPlanetfall End User License Agreement (EULA)**
+
+_Last Updated: Wed Jan 29 02:10:01 PM EET 2025_
+
+## 1. Introduction
+This End User License Agreement ("EULA") governs your use of ExoPlanetfall ("Game"), including all software, assets, and services associated with it. By downloading, installing, or using the Game, you agree to comply with this EULA.
+
+## 2. License Grant
+We (the developers) grant you a **personal, non-exclusive, non-transferable, revocable** license to install and play ExoPlanetfall for personal, non-commercial use. This license does **not** grant ownership of the Game.
+
+## 3. Restrictions
+You may **not**:
+- Distribute, sublicense, sell, or lease copies of the Game.
+- Modify, reverse-engineer, or attempt to extract source code unless explicitly permitted.
+- Use the Game for commercial purposes (including hosting paid servers) without permission.
+- Remove, alter, or bypass any security features.
+- Use the Game in any way that violates laws or promotes harmful activities.
+
+## 4. Modding Policy
+We encourage **modding**, but it must follow these rules:
+- **Mods must not distribute or include copyrighted Game assets** (textures, models, sounds, etc.).
+- **Mods must be non-commercial** unless granted explicit permission.
+- Mods must not alter the base game files directly but may use officially provided APIs.
+- Mods must not enable cheating or exploit vulnerabilities in multiplayer modes.
+
+## 5. Ownership and Intellectual Property
+All content in the Game, including but not limited to **code, visuals, sounds, music, and trademarks**, remains our property or that of our licensors. Your license to use the Game does not grant you ownership over any part of it.
+
+## 6. Online Services & Multiplayer
+- Online features may be modified or discontinued at any time.
+- We are **not responsible for player-generated content** on servers or in multiplayer interactions.
+- We may take action against users violating this EULA in online spaces.
+
+## 7. Termination
+We reserve the right to terminate your license if you violate this EULA. If terminated, you must delete all copies of the Game.
+
+## 8. No Warranties & Liability Limitation
+The Game is provided **"as is"** without warranties. We are **not liable** for any damages, losses, or issues arising from using the Game.
+
+## 9. Updates & Changes
+We may update the Game or this EULA at any time. Continued use means you accept any changes.
+
+## 10. Governing Law
+This EULA is governed by the laws of [Your Country]. Any disputes will be resolved in [Your Jurisdiction].
+
+**Contact Us**
+For questions about this EULA, contact us at [Your Contact Email].
+
+---
+This EULA ensures ExoPlanetfall remains protected while fostering a **mod-friendly community**. Let me know if you'd like modifications or additional clauses!
+
