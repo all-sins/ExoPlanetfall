@@ -1,6 +1,7 @@
 # ExoPlanetfall - Voxel-Based Sci-Fi Survival Game
 
 ![splash image](https://i.postimg.cc/yN45LNVF/splash.png)
+
 ***Images used only for illustrative purposes.***
 
 ## Overview
@@ -77,4 +78,5 @@ ExoPlanetfall delivers a sandbox of infinite possibilities, combining deep survi
 # Concept Art: In-Game Visualization
 
 ![in-game screenshot](https://i.postimg.cc/7ZTd1zyH/in-game.png)
+
 ***Images used only for illustrative purposes.***
