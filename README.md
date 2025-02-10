@@ -79,8 +79,4 @@ Eases procedural world evolution for future updates.
 
 ExoPlanetfall delivers a sandbox of infinite possibilities, combining deep survival mechanics with the creativity of automation and the thrill of combat. Whether you fortify a colony, automate an industrial empire, or venture into the unknown, survival is just the beginning. Crash on a distant world. Survive the unknown.
 
-# Concept Art: In-Game Visualization
-
 ![in-game screenshot](https://i.postimg.cc/7ZTd1zyH/in-game.png)
-
-***Images used only for illustrative purposes.***
