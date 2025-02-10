@@ -1,12 +1,14 @@
 # ExoPlanetfall - Voxel-Based Sci-Fi Survival Game
 
-![splash image](https://i.postimg.cc/yN45LNVF/splash.png)
+![art2](https://github.com/user-attachments/assets/05f3c784-b1d2-4b3d-96fa-6e45950c3154)
 
-***Images used only for illustrative purposes.***
+**Images used only for illustrative purposes.**
 
 ## Overview
 
 ExoPlanetfall is a voxel-based sci-fi survival and automation game set on a procedurally generated alien world. Players explore, harvest resources, build defenses, and automate production while defending against hostile enemies ranging from robotic drones to alien creatures. Inspired by Minecraft, Factorio, and tower defense mechanics, the game blends creativity, strategy, and action in a dangerous, ever-evolving environment.
+
+![splash](https://github.com/user-attachments/assets/a0d419ec-6a85-4c5d-bbc1-490a66f7352a)
 
 # Core Features
 
@@ -51,6 +53,8 @@ Server-wide events: Meteor showers, alien invasions, and environmental anomalies
 Build space-worthy vehicles to colonize new, procedurally generated planets.
 Each planet has unique challenges, resources, and ecosystems.
 Dynamic planetary weather systems impact exploration and survival.
+
+![reallyCool](https://github.com/user-attachments/assets/d5bea694-4e6f-466b-b2f7-1008125d006b)
 
 # Why Voxel-Based?
 
