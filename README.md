@@ -1,12 +1,16 @@
 # ExoPlanetfall - Voxel-Based Sci-Fi Survival Game
+![ExoPlanetfall_Transparent_Logo_Trim](https://github.com/user-attachments/assets/5ba0390b-4514-4151-8367-3dad5853c2e1)
+
+# About the Team NeonLab
+![NeonLab_Logo_Trim](https://github.com/user-attachments/assets/7a1f95af-b224-486a-ab91-1e3f4ffea3b5)
+
+* Artūrs Alsiņš - Developer
+* Dagnija Sandberga - Designer
+
+## Overview
 
 ![art2](https://github.com/user-attachments/assets/05f3c784-b1d2-4b3d-96fa-6e45950c3154)
 **Images used only for illustrative purposes.**
-
-# Team NeonLab
-![NeonLab_Logo_Trim](https://github.com/user-attachments/assets/7a1f95af-b224-486a-ab91-1e3f4ffea3b5)
-
-## Overview
 
 ExoPlanetfall is a voxel-based sci-fi survival and automation game set on a procedurally generated alien world. Players explore, harvest resources, build defenses, and automate production while defending against hostile enemies ranging from robotic drones to alien creatures. Inspired by Minecraft, Factorio, and tower defense mechanics, the game blends creativity, strategy, and action in a dangerous, ever-evolving environment.
 
