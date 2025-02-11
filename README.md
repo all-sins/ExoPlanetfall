@@ -1,8 +1,10 @@
 # ExoPlanetfall - Voxel-Based Sci-Fi Survival Game
 
 ![art2](https://github.com/user-attachments/assets/05f3c784-b1d2-4b3d-96fa-6e45950c3154)
-
 **Images used only for illustrative purposes.**
+
+# Team NeonLab
+![NeonLab_Logo_Trim](https://github.com/user-attachments/assets/7a1f95af-b224-486a-ab91-1e3f4ffea3b5)
 
 ## Overview
 
